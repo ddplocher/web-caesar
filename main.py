@@ -34,7 +34,7 @@ form = """
   
   Rotate by:
   
-  <input type = "text" name = "rot"/>
+  <input type = "text" name = "rot" value= "0"/>
  
   <textarea name = "text">{0}</textarea>
 
